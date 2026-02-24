@@ -13,6 +13,3 @@ git commit -m "Initial commit"
 # Push to remote repository
 git branch -M main
 git push -u origin main
-
-line to check whether the git is connected remotely to anythin or not
-git remote -v
